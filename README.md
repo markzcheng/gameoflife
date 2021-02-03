@@ -7,7 +7,7 @@ A Python project made by Mark Cheng
 - [virtualenv](https://virtualenv.pypa.io/en/latest/installation/)
 
 # Instructions for downloading
-1. Clone the repo: https://github.com/markzcheng/gameoflife.git
+1. Clone the repo: `https://github.com/markzcheng/gameoflife.git`
 2. 'cd gameoflife/'
 3. Run `virtualenv venv` then `source venv/bin/activate` to create and activate the virtual environment
 4. Install necessary packages with `pip install -r requirements.txt`
